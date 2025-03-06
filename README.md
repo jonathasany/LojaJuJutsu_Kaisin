@@ -10,14 +10,14 @@ Loja de itens do universo de Jujutsu Kaisen e afins.
 
 ### 📋 Planejamento do Projeto
 
-- [ ] **Planejamento Inicial**
-  - [ ] Definir arquitetura do frontend (React)
-  - [ ] Planejar as funcionalidades principais
+- [x] **Planejamento Inicial**
+  - [x] Definir arquitetura do frontend (React)
+  - [x] Planejar as funcionalidades principais
 
 ### 🔧 Configuração Inicial
 
 - [ ] **Configuração do Ambiente**
-  - [ ] Configurar o repositório Git
+  - [x] Configurar o repositório Git
   - [ ] Configurar o React com Create React App ou Vite
   - [ ] Instalar dependências iniciais (React Router, styled-components, etc.)
   
