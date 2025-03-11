@@ -18,8 +18,8 @@ Loja de itens do universo de Jujutsu Kaisen e afins.
 
 - [ ] **Configuração do Ambiente**
   - [x] Configurar o repositório Git
-  - [ ] Configurar o React com Create React App ou Vite
-  - [ ] Instalar dependências iniciais (React Router, styled-components, etc.)
+  - [x] Configurar o React com Create React App ou Vite
+  - [x] Instalar dependências iniciais (React Router, styled-components, etc.)
   
 ### 💻 Desenvolvimento
 
